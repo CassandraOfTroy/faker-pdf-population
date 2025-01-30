@@ -1,0 +1,7 @@
+Faker==35.0.0
+pdfrw==0.4
+PyMuPDF==1.25.2
+PyPDF2==3.0.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+typing_extensions==4.12.2
